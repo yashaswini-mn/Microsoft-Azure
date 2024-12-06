@@ -14,6 +14,8 @@ The Azure AI Services used in this project are:
 
 
 Skills Acquired
+<br>
+<br>
 During the lab, I gained practical skills in the following areas:
 <br>
 Utilizing Azure OpenAI to create intelligent applications.
