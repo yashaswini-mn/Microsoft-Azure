@@ -1,5 +1,5 @@
 # Microsoft-Azure
-This repository contains a sample python code which wokrs as a ChatBot created by using services provided by Microsoft Azure.
+This repository contains a sample python code which wokrs as a openAI gpt model which uses our own data to give response, used Azure which gives tools and services to achieve to build our own gpt model.
 
 Prerequisites:
 
@@ -12,3 +12,10 @@ The Azure AI Services used in this project are:
 - Azure Storage Accounts Service 
 - Azure openAI Service
 
+
+Skills Acquired
+During the lab, I gained practical skills in the following areas:
+
+Utilizing Azure OpenAI to create intelligent applications.
+Designing AI solutions tailored to specific business needs.
+Integrating AI services within existing Azure infrastructures.
